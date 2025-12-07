@@ -1,10 +1,5 @@
-[48044:34388:1207/134951.890:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[48044:34388:1207/134952.333:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[48044:34388:1207/135258.864:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
-[48044:34388:1207/135315.309:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[47324:13900:1207/135328.374:ERROR:frame_impl.cc(537)] frame 5-B3758B1ECC844211A36708EDBD350491 connection timeout
-[37128:51456:1207/135328.647:ERROR:frame_impl.cc(537)] frame 6-94F425A854A00E7A5B770B60ACD6D4B9 connection timeout
-[48044:34388:1207/135339.313:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[47324:13900:1207/135339.380:ERROR:frame_impl.cc(537)] frame 5-B3758B1ECC844211A36708EDBD350491 connection timeout
-[37128:51456:1207/135339.693:ERROR:frame_impl.cc(537)] frame 6-94F425A854A00E7A5B770B60ACD6D4B9 connection timeout
-[48044:34388:1207/140108.540:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[30420:45040:1207/143032.826:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[30420:45040:1207/143033.498:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[30420:45040:1207/143121.645:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[30420:45040:1207/143123.454:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[30420:45040:1207/143320.752:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
