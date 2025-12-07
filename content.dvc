@@ -1,0 +1,6 @@
+outs:
+- md5: cdf910f12ca0678a398eab2e18c02e35.dir
+  size: 177018486
+  nfiles: 943
+  hash: md5
+  path: content
